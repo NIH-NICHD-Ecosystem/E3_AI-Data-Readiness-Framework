@@ -117,11 +117,11 @@ Some characteristics, while pertinent to the measure of AI Data Readiness, were 
 
 ### User stories:
 
-The following User Stories motivated and informed [this Effort](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/README.md)*.
+The following User Stories motivated and informed [this Effort](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/README.md).
 
 | S#  | User Story | Current Problem | User Goal | User |
 |----|----|----|-----|---|
 |62| As a researcher, I want to use DASH BPCA data to train, validate, and test an AI/ML model that predicts adverse events due to antibiotics for intra-abdominal infections in infants with the aim toward recommending the best antibiotic for a patient. | Today, I have no idea whether these data are "AI-ready" and how much time and effort it would take to prepare the data to develop, train, or use an AI/ML model. | My goal is to understand the AI-readiness of the data. | Researcher |
 | 63 | As a researcher, I want to use transcripts of audio recordings from CHILDES to predict whether or not a child is a late talker. | Today, I have no idea whether these data are "AI-ready" and how much time and effort it would take to prepare transcript data to develop, train, or use an AI/ML model. | My goal is to understand the AI-readiness of the data. | Researcher |
 
-\*_External link, NIH is not responsible for content of external sites_
+
