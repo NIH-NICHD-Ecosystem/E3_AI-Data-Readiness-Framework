@@ -8,6 +8,7 @@
 - [AI Data Readiness Framework](#air-table)
 - [How to Use the Framework](#user-guide-how-to-use-the-framework)
 - [Effort Documentation](#effort-documentation)
+- [User Stories](#user-stories)
 <br/><br/>
 
 
@@ -115,7 +116,7 @@ Some characteristics, while pertinent to the measure of AI Data Readiness, were 
 
 <br/>
 
-### User stories:
+## User stories:
 
 The following User Stories motivated and informed this Effort.
 
